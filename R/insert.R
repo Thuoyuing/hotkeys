@@ -12,6 +12,13 @@ a2 <- function() {
   rstudioapi::insertText(loc, " %>% ")
 }
 
+#' Insert \%>>\%.
+#' @export
+a2 <- function() {
+  loc <- rstudioapi::getActiveDocumentContext()$selection[[1]]$range
+  rstudioapi::insertText(loc, " %>>% ")
+}
+
 #' Insert \%T>\%.
 #' @export
 a3 <- function() {
