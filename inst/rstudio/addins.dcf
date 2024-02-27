@@ -8,63 +8,68 @@ Description: Insert `%>%` at the cursor.
 Binding: a2
 Interactive: false
 
+Name: Insert %>>%.
+Description: Insert `%>>%` at the cursor.
+Binding: a3
+Interactive: false
+
 Name: Insert %T>%.
 Description: Insert `%T>%` at the cursor.
-Binding: a3
+Binding: a4
 Interactive: false
 
 Name: Insert <-.
 Description: Insert `%<-%` at the cursor.
-Binding: a4
+Binding: a5
 Interactive: false
 
 Name: Insert %==%.
 Description: Insert `%==%` at the cursor.
-Binding: a5
+Binding: a6
 Interactive: false
 
 Name: Insert %$%.
 Description: Insert `%$%` at the cursor.
-Binding: a6
+Binding: a7
 Interactive: false
 
 Name: Insert %%.
 Description: Insert `%%` at the cursor.
-Binding: a7
+Binding: a8
 Interactive: false
 
 Name: Insert %/%.
 Description: Insert `%/%` at the cursor.
-Binding: a8
+Binding: a9
 Interactive: false
 
 Name: Insert ->.
 Description: Insert `%->%` at the cursor.
-Binding: a9
+Binding: a10
 Interactive: false
 
 Name: Insert %+replace%.
 Description: Insert `%+replace%` at the cursor.
-Binding: a10
+Binding: a11
 Interactive: false
 
 Name: Insert %w/o%.
 Description: Insert `%w/o%` at the cursor.
-Binding: a11
+Binding: a12
 Interactive: false
 
 Name: Insert %*%.
 Description: Insert `%*%` at the cursor.
-Binding: a12
+Binding: a13
 Interactive: false
 
 Name: Insert %<>%.
 Description: Insert `%<>%` at the cursor.
-Binding: a13
+Binding: a14
 Interactive: false
 
 Name: Insert |>.
 Description: Insert `|>` at the cursor.
-Binding: a14
+Binding: a15
 Interactive: false
 
